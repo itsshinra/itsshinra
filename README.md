@@ -49,9 +49,9 @@
     <!-- Mail -->
     <a href="mailto:connect.voeurnsovanmakara313@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
     <!-- Twitter -->
-    <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a>
+    <!--<a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a> -->
     <!-- Instagram -->
-    <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"></a>
+    <a href="https://www.instagram.com/shinz_ra/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"></a>
     <!-- Facebook -->
     <a href="https://web.facebook.com/sh1nzra/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
     <!-- Youtube -->
@@ -128,7 +128,6 @@
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 <!--
 <details>
