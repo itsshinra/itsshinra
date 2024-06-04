@@ -1,6 +1,6 @@
 <!-- Title -->
 <h2 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I'm Sovanmakara, you can call me
                 <b><a target="_blank" href="#">Shinra</a></b>
         </samp>
         
